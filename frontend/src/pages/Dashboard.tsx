@@ -1,10 +1,12 @@
 import { useEffect, useState } from 'react';
 import { fetchSummary, fetchComplaints } from '../services/api';
 import { AlertCircle, CheckCircle, Clock, TrendingUp } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 
 import MapWidget from '../components/MapWidget';
 
 export default function Dashboard({ cell }: { cell?: string }) {
+  const navigate = useNavigate();
   const [summary, setSummary] = useState<any>(null);
   const [complaints, setComplaints] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
@@ -123,7 +125,7 @@ export default function Dashboard({ cell }: { cell?: string }) {
           </div>
           <div className="flex-1 overflow-y-auto p-3">
             {complaints.map((c, i) => (
-              <div key={i} className="p-4 border border-transparent hover:border-gray-200 hover:bg-gray-50 hover:shadow-sm transition-all rounded-xl mb-2 cursor-pointer">
+              <div key={i} onClick={() => navigate(`/complaint/${c.complaint_id}`)} className="p-4 border border-transparent hover:border-gray-200 hover:bg-gray-50 hover:shadow-sm transition-all rounded-xl mb-2 cursor-pointer">
                 <div className="flex justify-between items-start mb-1.5">
                   <span className="text-sm font-bold text-gray-900">{c.complaint_id}</span>
                   <span className={`text-[10px] font-bold px-2 py-1 rounded-md uppercase tracking-wider ${c.top_hotspot?.risk_score > 80 || c.priority === 'P1' ? 'bg-red-50 text-red-600 border border-red-100' : 'bg-amber-50 text-amber-600 border border-amber-100'}`}>
