@@ -6,16 +6,12 @@ import dagre from 'cytoscape-dagre';
 cytoscape.use(dagre);
 
 const elements = [
-  { data: { id: 'victim', label: 'Victim
-SIH-1029', type: 'victim' } },
-  { data: { id: 'mule1', label: 'Mule Acc
-HDFC', type: 'mule' } },
-  { data: { id: 'mule2', label: 'Mule Acc
-SBI', type: 'mule' } },
-  { data: { id: 'atm1', label: 'ATM
-Delhi Sector 4', type: 'atm' } },
-  { data: { source: 'victim', target: 'mule1', label: '₹25,000' } },
-  { data: { source: 'victim', target: 'mule2', label: '₹20,000' } },
+  { data: { id: 'victim', label: `Victim\nSIH-1029`, type: 'victim' } },
+  { data: { id: 'mule1', label: `Mule Acc\nHDFC`, type: 'mule' } },
+  { data: { id: 'mule2', label: `Mule Acc\nSBI`, type: 'mule' } },
+  { data: { id: 'atm1', label: `ATM\nDelhi Sector 4`, type: 'atm' } },
+  { data: { source: 'victim', target: 'mule1', label: '₹125,000' } },
+  { data: { source: 'victim', target: 'mule2', label: '₹120,000' } },
   { data: { source: 'mule1', target: 'atm1', label: 'Withdrawal' } },
   { data: { source: 'mule2', target: 'atm1', label: 'Withdrawal' } },
 ];

@@ -6,8 +6,9 @@ export const fetchModelMetadata = async () => {
   return res.json();
 };
 
-export const fetchComplaints = async () => {
-  const res = await fetch(`${API_BASE}/api/complaints?limit=50`);
+export const fetchComplaints = async (search?: string) => {
+  const url = search ? `${API_BASE}/api/complaints?search=${search}` : `${API_BASE}/api/complaints?limit=50`;
+  const res = await fetch(url);
   if (!res.ok) throw new Error('Failed to fetch complaints');
   return res.json();
 };
@@ -28,8 +29,9 @@ export const submitComplaint = async (data: any) => {
   return res.json();
 };
 
-export const fetchSummary = async () => {
-  const res = await fetch(`${API_BASE}/api/summary`);
+export const fetchSummary = async (search?: string) => {
+  const url = search ? `${API_BASE}/api/kpis?search=${search}` : `${API_BASE}/api/kpis`;
+  const res = await fetch(url);
   if (!res.ok) throw new Error('Failed to fetch summary');
   return res.json();
 };
