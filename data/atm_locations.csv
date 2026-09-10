@@ -1,0 +1,536 @@
+atm_id,lat,lng,city,bank,address,cluster_id
+ATM0001,28.575033,77.233155,Delhi,SBI,"H.No. 135, Mand Circle, Etawah 374117",0
+ATM0002,28.577854,77.16925,Delhi,BOB,"51/574, Kumer Chowk, Rajahmundry 583606",0
+ATM0003,28.618437,77.218049,Delhi,SBI,"H.No. 385, Chacko Ganj, Dhule-582056",0
+ATM0004,28.57327,77.182266,Delhi,Canara,"51/34, Sarma Road, Gandhinagar 577959",0
+ATM0005,28.620025,77.230602,Delhi,BOB,"41/24, Cherian Marg, Kolhapur 765635",0
+ATM0006,28.605852,77.203921,Delhi,SBI,"19, Chowdhury Path, Berhampore 685138",0
+ATM0007,28.65083,77.234881,Delhi,SBI,"H.No. 39, Choudhary Path, Anantapuram-219624",0
+ATM0008,28.606161,77.186787,Delhi,SBI,"37, Chauhan Chowk, Sangli-Miraj & Kupwad-140529",0
+ATM0009,28.640249,77.169221,Delhi,PNB,"35/71, Subramanian Road, Proddatur-590636",0
+ATM0010,28.599798,77.193396,Delhi,SBI,"H.No. 199, Balan Nagar, Jodhpur 086414",0
+ATM0011,28.568245,77.204942,Delhi,SBI,"H.No. 035, Bera Chowk, Barasat 091864",0
+ATM0012,28.65613,77.16688,Delhi,SBI,"H.No. 93, Dara Ganj, Pimpri-Chinchwad 858938",0
+ATM0013,28.626764,77.247545,Delhi,PNB,"56/80, Atwal Chowk, Proddatur 576654",0
+ATM0014,28.583129,77.165956,Delhi,Canara,"77, Bala Marg, Satara 759586",0
+ATM0015,28.641207,77.257522,Delhi,ICICI,"74/40, Ravi Zila, Pudukkottai 232321",0
+ATM0016,28.650548,77.197013,Delhi,PNB,"19/297, Agate Nagar, Jorhat 256640",0
+ATM0017,28.647311,77.175265,Delhi,PNB,"64/24, Parsa Ganj, Shimoga 905570",0
+ATM0018,28.630918,77.229182,Delhi,Canara,"899, Ratta Road, Shimoga-694230",0
+ATM0019,28.57104,77.222498,Delhi,PNB,"87/93, Shanker Road, Ichalkaranji-008096",0
+ATM0020,28.588381,77.205226,Delhi,SBI,"H.No. 64, Rao Chowk, Kadapa 920632",0
+ATM0021,28.656439,77.227816,Delhi,SBI,"H.No. 64, Dalal Street, Aligarh 791435",0
+ATM0022,28.596328,77.235831,Delhi,SBI,"H.No. 201, Dubey Nagar, Gwalior-820861",0
+ATM0023,28.64608,77.239505,Delhi,PNB,"H.No. 443, Kaul Zila, Tumkur-663733",0
+ATM0024,28.570519,77.250314,Delhi,Canara,"40/358, Badal Path, Latur-913774",0
+ATM0025,28.635691,77.180263,Delhi,PNB,"654, Pall, Mira-Bhayandar 813137",0
+ATM0026,28.652368,77.223285,Delhi,SBI,"584, Maharaj Ganj, Hazaribagh 331692",0
+ATM0027,28.577863,77.233499,Delhi,PNB,"74, Wason Ganj, Nashik 699784",0
+ATM0028,28.638601,77.201843,Delhi,Canara,"325, Salvi Chowk, Raurkela Industrial Township-499943",0
+ATM0029,28.6001,77.258733,Delhi,SBI,"95/15, Char Chowk, Udupi-372366",0
+ATM0030,28.613252,77.234578,Delhi,ICICI,"842, Sen Ganj, Saharsa 773878",0
+ATM0031,28.579184,77.174998,Delhi,Canara,"19/228, Raman Nagar, Nagercoil 500740",0
+ATM0032,28.623541,77.197477,Delhi,Canara,"H.No. 167, Boase, Patiala-291212",0
+ATM0033,28.610705,77.184141,Delhi,Canara,"09/779, Lala Street, Medininagar-436999",0
+ATM0034,28.658143,77.227028,Delhi,SBI,"54/055, Bhalla Circle, Sonipat 433532",0
+ATM0035,28.652379,77.234088,Delhi,BOB,"98/03, Sachar Circle, Kollam 930897",0
+ATM0036,19.037155,72.871177,Mumbai,PNB,"H.No. 95, Yohannan Circle, Dindigul-666660",1
+ATM0037,19.121382,72.915285,Mumbai,SBI,"39, Mutti, Gudivada 359767",1
+ATM0038,19.076059,72.845565,Mumbai,HDFC,"H.No. 206, Varkey Zila, Nagaon 923245",1
+ATM0039,19.113052,72.857544,Mumbai,Canara,"H.No. 64, Manne Nagar, Ramagundam 030415",1
+ATM0040,19.086897,72.842984,Mumbai,BOB,"545, Merchant Zila, Bokaro-319157",1
+ATM0041,19.079938,72.905563,Mumbai,PNB,"H.No. 568, Palla Ganj, Delhi 572118",1
+ATM0042,19.026057,72.860116,Mumbai,SBI,"H.No. 455, Chandran Path, Rewa-700617",1
+ATM0043,19.11891,72.915572,Mumbai,ICICI,"78, Sastry Ganj, Kulti 162143",1
+ATM0044,19.056751,72.833493,Mumbai,ICICI,"23/942, Bora Chowk, Alappuzha 466705",1
+ATM0045,19.120695,72.836265,Mumbai,PNB,"94, Mukhopadhyay Zila, Jabalpur-094605",1
+ATM0046,19.032921,72.90376,Mumbai,BOB,"H.No. 41, Nadkarni Ganj, Rajkot 696887",1
+ATM0047,19.038839,72.875228,Mumbai,PNB,"72/582, Patla, Vadodara-323367",1
+ATM0048,19.052506,72.914943,Mumbai,PNB,"78/342, Divan, Sagar 714475",1
+ATM0049,19.04718,72.88163,Mumbai,BOB,"H.No. 60, Sane Ganj, Etawah-923191",1
+ATM0050,19.046115,72.858872,Mumbai,HDFC,"27/46, Karnik Circle, Patna-241893",1
+ATM0051,19.090988,72.87151,Mumbai,PNB,"98/289, Tara Chowk, Jammu 271264",1
+ATM0052,19.0381,72.85017,Mumbai,SBI,"52/646, Lala Marg, Kollam-930833",1
+ATM0053,19.084831,72.850711,Mumbai,SBI,"04, Manda Road, Akola 735292",1
+ATM0054,19.033099,72.89081,Mumbai,SBI,"590, Som Nagar, Pallavaram-436011",1
+ATM0055,19.116542,72.913664,Mumbai,SBI,"30/37, Ram, Ratlam-257438",1
+ATM0056,19.0498,72.894598,Mumbai,SBI,"H.No. 17, Karnik, Bhubaneswar-418383",1
+ATM0057,19.039231,72.921251,Mumbai,Canara,"35/055, Thakur Zila, Imphal-938823",1
+ATM0058,19.073267,72.906162,Mumbai,ICICI,"86/623, Kashyap Zila, Hubli–Dharwad-538137",1
+ATM0059,19.045041,72.837393,Mumbai,PNB,"H.No. 496, Wali, Solapur-821681",1
+ATM0060,19.068358,72.874402,Mumbai,BOB,"78/551, Thakur Chowk, Gaya 466823",1
+ATM0061,22.587946,88.378518,Kolkata,SBI,"80/278, Narain Street, Cuttack 888271",2
+ATM0062,22.595421,88.393959,Kolkata,SBI,"050, Karpe Circle, Bihar Sharif-662940",2
+ATM0063,22.541759,88.367529,Kolkata,SBI,"65/235, Buch Circle, Sirsa 427832",2
+ATM0064,22.540949,88.360163,Kolkata,ICICI,"97/78, Borra Marg, Satna 123195",2
+ATM0065,22.530138,88.394702,Kolkata,ICICI,"80/986, Ramachandran Ganj, Rohtak-998340",2
+ATM0066,22.532391,88.379114,Kolkata,PNB,"H.No. 53, Deshmukh Chowk, Bhiwandi 064067",2
+ATM0067,22.524076,88.323226,Kolkata,BOB,"38/518, Keer Chowk, Pondicherry 048827",2
+ATM0068,22.546238,88.354541,Kolkata,PNB,"73/96, Sarkar Zila, Gudivada-033885",2
+ATM0069,22.609065,88.404144,Kolkata,SBI,"652, Chad Marg, Kozhikode-052553",2
+ATM0070,22.522816,88.352942,Kolkata,HDFC,"H.No. 954, Sama Road, Bhatpara 385940",2
+ATM0071,22.601113,88.342425,Kolkata,Canara,"H.No. 471, Deep Ganj, Satna-371179",2
+ATM0072,22.595651,88.392236,Kolkata,Canara,"H.No. 42, Gade Chowk, Mysore 093404",2
+ATM0073,22.571267,88.33289,Kolkata,SBI,"81, Natarajan Chowk, Gwalior 344977",2
+ATM0074,22.528448,88.387474,Kolkata,SBI,"88/452, Merchant Path, Guntur-859817",2
+ATM0075,22.55396,88.318914,Kolkata,PNB,"H.No. 452, Golla Marg, Sangli-Miraj & Kupwad-381172",2
+ATM0076,22.614539,88.367013,Kolkata,SBI,"45/577, Apte Path, Amritsar-838745",2
+ATM0077,22.573383,88.399034,Kolkata,SBI,"56/628, Handa Street, Aizawl-072451",2
+ATM0078,22.529396,88.400082,Kolkata,PNB,"H.No. 70, Borra Street, Ratlam-182711",2
+ATM0079,22.61676,88.370868,Kolkata,Canara,"76/78, Sura Zila, Bhubaneswar-094834",2
+ATM0080,22.526574,88.322098,Kolkata,Canara,"87, Chander, Berhampore-858521",2
+ATM0081,22.579123,88.345537,Kolkata,SBI,"H.No. 97, Nagi, Kolhapur 125895",2
+ATM0082,22.589573,88.345318,Kolkata,SBI,"H.No. 744, Kamdar Marg, Gandhinagar 237304",2
+ATM0083,22.535688,88.37845,Kolkata,PNB,"H.No. 296, Sarin Ganj, Patiala 702256",2
+ATM0084,22.615502,88.407473,Kolkata,SBI,"683, Dhingra Marg, Nashik-753755",2
+ATM0085,22.584716,88.370199,Kolkata,SBI,"60, Halder Path, Dharmavaram 915268",2
+ATM0086,22.576363,88.364488,Kolkata,SBI,"61/209, Khatri Chowk, Haridwar-424510",2
+ATM0087,22.557501,88.320779,Kolkata,SBI,"66, Kala Zila, Anantapuram-188681",2
+ATM0088,22.551099,88.357718,Kolkata,PNB,"92/27, Raj Nagar, Rampur 842999",2
+ATM0089,22.552852,88.412285,Kolkata,ICICI,"H.No. 229, Tata Zila, Machilipatnam-045590",2
+ATM0090,22.575494,88.380686,Kolkata,Canara,"H.No. 791, Tandon Ganj, Nagercoil 100161",2
+ATM0091,22.615776,88.324259,Kolkata,ICICI,"H.No. 19, Mammen Zila, Kakinada 750278",2
+ATM0092,22.549047,88.402871,Kolkata,BOB,"47, Shankar Road, Agra-048321",2
+ATM0093,22.538145,88.342076,Kolkata,SBI,"93/95, Bal Zila, Vijayanagaram 345664",2
+ATM0094,22.556888,88.38265,Kolkata,ICICI,"51/369, Uppal Chowk, Jodhpur 278139",2
+ATM0095,22.573141,88.339012,Kolkata,HDFC,"47, Karpe Ganj, Jalgaon-378304",2
+ATM0096,22.52768,88.377328,Kolkata,ICICI,"595, Mani Zila, Mehsana-067511",2
+ATM0097,13.033055,80.297812,Chennai,Canara,"22/77, Kadakia Road, Pali 990271",3
+ATM0098,13.058896,80.294823,Chennai,Canara,"36, Sekhon Ganj, Guntakal 095360",3
+ATM0099,13.075469,80.221667,Chennai,SBI,"91/955, Dhaliwal Ganj, Kanpur 069989",3
+ATM0100,13.121011,80.311093,Chennai,PNB,"01, Borah Zila, Panihati 037632",3
+ATM0101,13.11616,80.278951,Chennai,SBI,"65/408, Parikh Circle, Phusro-670398",3
+ATM0102,13.045445,80.251526,Chennai,ICICI,"H.No. 350, Gulati Road, South Dumdum-585954",3
+ATM0103,13.112312,80.30677,Chennai,ICICI,"47/138, Ahluwalia Nagar, Jalandhar 892662",3
+ATM0104,13.053708,80.245653,Chennai,SBI,"929, Kurian Zila, Motihari 564129",3
+ATM0105,13.110712,80.309113,Chennai,PNB,"H.No. 088, Srivastava Nagar, Kolkata-705803",3
+ATM0106,13.094766,80.236155,Chennai,HDFC,"40/67, Vala Path, Arrah-066001",3
+ATM0107,13.119161,80.318321,Chennai,ICICI,"75/26, Prabhu Marg, Gangtok-822008",3
+ATM0108,13.120842,80.223179,Chennai,BOB,"23, Raj Road, Hosur-531530",3
+ATM0109,13.065919,80.313782,Chennai,ICICI,"H.No. 127, Natarajan Road, Kavali 378579",3
+ATM0110,13.119106,80.301775,Chennai,SBI,"190, Chauhan Chowk, Erode-434340",3
+ATM0111,13.111437,80.23151,Chennai,ICICI,"855, Ravi Marg, Rampur-516189",3
+ATM0112,13.118559,80.242943,Chennai,ICICI,"H.No. 930, Bhardwaj Zila, Madhyamgram-114975",3
+ATM0113,17.369966,78.518754,Hyderabad,ICICI,"35, Hari Marg, Tirunelveli 268810",4
+ATM0114,17.357292,78.502703,Hyderabad,PNB,"H.No. 70, Sidhu Street, Gudivada 394492",4
+ATM0115,17.36286,78.443642,Hyderabad,BOB,"988, Pandit Street, Ghaziabad-599660",4
+ATM0116,17.370115,78.487641,Hyderabad,Canara,"30/086, Bhandari Marg, Rourkela 697839",4
+ATM0117,17.419366,78.469815,Hyderabad,SBI,"H.No. 84, Morar Zila, Fatehpur 287196",4
+ATM0118,17.422704,78.462822,Hyderabad,Canara,"53/703, Aggarwal Circle, Phagwara 415767",4
+ATM0119,17.433355,78.440526,Hyderabad,Canara,"H.No. 916, Vyas Marg, Hosur 088910",4
+ATM0120,17.369569,78.515343,Hyderabad,PNB,"H.No. 99, Korpal Path, Singrauli 373105",4
+ATM0121,17.433424,78.448265,Hyderabad,ICICI,"H.No. 39, Lad Ganj, Rewa 251585",4
+ATM0122,17.354008,78.441139,Hyderabad,PNB,"05/71, Khalsa Circle, Ghaziabad-002856",4
+ATM0123,17.386992,78.517351,Hyderabad,Canara,"08, Barad Street, Parbhani-189184",4
+ATM0124,17.429026,78.510404,Hyderabad,SBI,"H.No. 382, Dani Circle, Delhi-503029",4
+ATM0125,17.37813,78.531587,Hyderabad,HDFC,"113, Nagarajan Path, Gopalpur-550423",4
+ATM0126,17.397316,78.503039,Hyderabad,SBI,"52/50, Suresh Road, Barasat 511699",4
+ATM0127,17.425005,78.487412,Hyderabad,Canara,"794, Bajaj Marg, Rajahmundry-746258",4
+ATM0128,17.367618,78.506421,Hyderabad,Canara,"H.No. 041, Saxena Zila, Madhyamgram 119099",4
+ATM0129,17.354184,78.503193,Hyderabad,PNB,"21/181, Nayak Marg, Chapra-913693",4
+ATM0130,17.409813,78.454103,Hyderabad,Canara,"89/47, Roy Chowk, Pondicherry 734627",4
+ATM0131,17.375608,78.520073,Hyderabad,SBI,"56/437, Dey, Mahbubnagar-138537",4
+ATM0132,17.356018,78.515276,Hyderabad,Canara,"H.No. 08, Lad Road, Bahraich 575753",4
+ATM0133,17.367225,78.480879,Hyderabad,Canara,"23/428, Kata Chowk, Darbhanga-879787",4
+ATM0134,17.386117,78.516074,Hyderabad,HDFC,"51/461, Sarraf, Bidhannagar 873808",4
+ATM0135,17.408596,78.502585,Hyderabad,SBI,"94/47, Nagy Circle, Chennai 078012",4
+ATM0136,17.401385,78.498626,Hyderabad,SBI,"H.No. 28, Chokshi Nagar, Dharmavaram-421834",4
+ATM0137,17.4302,78.460187,Hyderabad,SBI,"91, Rastogi Circle, Danapur-416226",4
+ATM0138,17.415656,78.451435,Hyderabad,SBI,"45/058, Bhatti Zila, Bhiwandi 802100",4
+ATM0139,17.433394,78.497827,Hyderabad,BOB,"050, Sabharwal Zila, Guna-243552",4
+ATM0140,17.380542,78.525314,Hyderabad,Canara,"H.No. 62, D’Alia Zila, Yamunanagar-751605",4
+ATM0141,17.406835,78.475098,Hyderabad,PNB,"04/194, Bedi, Udaipur-808421",4
+ATM0142,12.987206,77.545154,Bengaluru,BOB,"H.No. 64, Varkey Zila, Sirsa-198061",5
+ATM0143,12.998605,77.555259,Bengaluru,PNB,"58/838, Sule Zila, Ludhiana-894292",5
+ATM0144,12.939189,77.640397,Bengaluru,PNB,"03/60, Maharaj, Ahmedabad 967991",5
+ATM0145,12.926622,77.56952,Bengaluru,ICICI,"216, Bahl Marg, Katihar-284954",5
+ATM0146,12.967246,77.624742,Bengaluru,Canara,"87/480, Kala Path, Medininagar 374779",5
+ATM0147,13.020389,77.604145,Bengaluru,HDFC,"59/403, Tandon Circle, Adoni 210518",5
+ATM0148,13.010743,77.605865,Bengaluru,BOB,"456, Lanka Marg, Ambattur 919576",5
+ATM0149,12.972078,77.627657,Bengaluru,PNB,"21/36, Ganesh Ganj, Bharatpur-027882",5
+ATM0150,13.011321,77.618966,Bengaluru,PNB,"15/23, Agarwal Marg, Amritsar-238799",5
+ATM0151,12.947519,77.569324,Bengaluru,Canara,"20/661, Choudhary Path, Motihari 255073",5
+ATM0152,12.998181,77.59673,Bengaluru,Canara,"35/376, Shetty Zila, Agartala-594502",5
+ATM0153,12.94906,77.552348,Bengaluru,SBI,"62, Kade Street, Shahjahanpur 358509",5
+ATM0154,12.948772,77.576571,Bengaluru,PNB,"42/63, Doctor Zila, Karaikudi 363036",5
+ATM0155,12.935437,77.567726,Bengaluru,Canara,"38/770, Comar Nagar, Patna 049640",5
+ATM0156,12.992242,77.551023,Bengaluru,PNB,"334, Dugar Marg, Sangli-Miraj & Kupwad 168419",5
+ATM0157,12.975861,77.586177,Bengaluru,SBI,"H.No. 23, Wagle Circle, Bhopal 651618",5
+ATM0158,12.963614,77.635084,Bengaluru,Canara,"36/105, Cheema Road, Ramgarh-016132",5
+ATM0159,12.991152,77.630273,Bengaluru,BOB,"837, Chatterjee Path, Bardhaman-783376",5
+ATM0160,12.959638,77.54519,Bengaluru,PNB,"47/60, Maharaj Nagar, Morbi-008422",5
+ATM0161,23.011499,72.610564,Ahmedabad,ICICI,"43/46, Palla Marg, Raipur-933808",6
+ATM0162,23.026322,72.594863,Ahmedabad,BOB,"H.No. 97, Murty Street, Kochi 927135",6
+ATM0163,23.062281,72.570223,Ahmedabad,SBI,"772, Banik Marg, Kharagpur 887043",6
+ATM0164,23.021064,72.560286,Ahmedabad,Canara,"H.No. 649, Iyengar Nagar, Howrah-785827",6
+ATM0165,23.052314,72.593818,Ahmedabad,ICICI,"H.No. 91, Chatterjee Ganj, Davanagere-251381",6
+ATM0166,23.064454,72.619472,Ahmedabad,PNB,"56, Biswas Chowk, Indore 749112",6
+ATM0167,23.063193,72.580589,Ahmedabad,Canara,"80, Manne Path, Kishanganj-324335",6
+ATM0168,22.980895,72.564261,Ahmedabad,ICICI,"H.No. 315, Talwar Street, Serampore-340781",6
+ATM0169,22.990673,72.547416,Ahmedabad,SBI,"H.No. 676, Kaul Chowk, Nellore 766147",6
+ATM0170,23.01797,72.55515,Ahmedabad,ICICI,"22/778, Suri Nagar, Mehsana 130146",6
+ATM0171,23.000326,72.61652,Ahmedabad,PNB,"65/865, Balakrishnan Ganj, Ranchi 831469",6
+ATM0172,23.055991,72.568431,Ahmedabad,BOB,"H.No. 14, Ganesh Road, Meerut 690803",6
+ATM0173,22.977709,72.616592,Ahmedabad,SBI,"22/662, Rana Road, Asansol 086750",6
+ATM0174,22.979362,72.617129,Ahmedabad,SBI,"71/58, Varty Chowk, Jaunpur-889399",6
+ATM0175,22.975603,72.546128,Ahmedabad,ICICI,"H.No. 933, Bhasin Nagar, Pimpri-Chinchwad-511738",6
+ATM0176,23.034634,72.545254,Ahmedabad,PNB,"13, Talwar Ganj, Nangloi Jat 805504",6
+ATM0177,22.983939,72.616176,Ahmedabad,PNB,"79/380, Rajagopalan Path, Bhimavaram 459603",6
+ATM0178,22.998124,72.55829,Ahmedabad,Canara,"43/63, Oak Zila, Jaipur 149656",6
+ATM0179,23.068873,72.593236,Ahmedabad,BOB,"25, Chakraborty Circle, Dharmavaram-326766",6
+ATM0180,22.988877,72.552504,Ahmedabad,Canara,"404, Gara Street, Rourkela-495718",6
+ATM0181,23.065389,72.57898,Ahmedabad,HDFC,"12, Dara Road, Mysore-530959",6
+ATM0182,23.010031,72.615547,Ahmedabad,SBI,"H.No. 47, Bath Zila, Mango 718099",6
+ATM0183,23.03171,72.604457,Ahmedabad,SBI,"642, Parikh, Kadapa-773834",6
+ATM0184,23.042219,72.551558,Ahmedabad,Canara,"86/022, Kurian Ganj, Rourkela 874270",6
+ATM0185,23.053053,72.601023,Ahmedabad,Canara,"H.No. 101, Hayre Marg, Bangalore-150995",6
+ATM0186,22.976607,72.574675,Ahmedabad,Canara,"03, Om Zila, Morbi-311234",6
+ATM0187,22.979396,72.586154,Ahmedabad,SBI,"789, Modi Marg, Sagar 843803",6
+ATM0188,23.014506,72.57042,Ahmedabad,PNB,"H.No. 72, Raman Street, Khandwa 890594",6
+ATM0189,23.008719,72.610558,Ahmedabad,PNB,"22/46, Tiwari Chowk, Muzaffarnagar 576632",6
+ATM0190,22.987799,72.539014,Ahmedabad,PNB,"H.No. 24, Gandhi Chowk, Avadi 382493",6
+ATM0191,23.037546,72.582991,Ahmedabad,HDFC,"H.No. 22, Nigam Nagar, Rourkela 484674",6
+ATM0192,23.049964,72.567887,Ahmedabad,ICICI,"02/790, Shere Zila, Deoghar-327400",6
+ATM0193,23.031747,72.55363,Ahmedabad,SBI,"82/86, Ram Marg, Rajahmundry-232216",6
+ATM0194,23.065962,72.549293,Ahmedabad,PNB,"395, Vig Zila, Raiganj-607258",6
+ATM0195,23.047548,72.578385,Ahmedabad,Canara,"H.No. 493, Choudhury Ganj, Udaipur 092177",6
+ATM0196,23.00614,72.570831,Ahmedabad,SBI,"45/168, Sachdev Street, Asansol-702909",6
+ATM0197,23.021255,72.556882,Ahmedabad,SBI,"83/13, Chatterjee Marg, Arrah-617852",6
+ATM0198,23.000466,72.581016,Ahmedabad,ICICI,"H.No. 43, Nadig Marg, Hosur-798480",6
+ATM0199,23.028079,72.573063,Ahmedabad,SBI,"68/77, Prakash Chowk, Ahmedabad-683400",6
+ATM0200,26.934407,75.786158,Jaipur,BOB,"H.No. 577, Dyal Road, Rajpur Sonarpur-154342",7
+ATM0201,26.931461,75.80189,Jaipur,PNB,"H.No. 169, Sahota, Tenali 085037",7
+ATM0202,26.941693,75.746605,Jaipur,SBI,"58/506, Krishnan Road, Burhanpur 436853",7
+ATM0203,26.931579,75.767921,Jaipur,Canara,"246, Dayal Ganj, Panihati-022573",7
+ATM0204,26.909726,75.790392,Jaipur,PNB,"H.No. 38, Trivedi Marg, Bellary-733003",7
+ATM0205,26.936994,75.770379,Jaipur,BOB,"94/06, Amble Marg, Tadepalligudem-575997",7
+ATM0206,26.889492,75.76244,Jaipur,SBI,"H.No. 126, Om Ganj, Nagercoil 951631",7
+ATM0207,26.881658,75.749255,Jaipur,PNB,"H.No. 981, Oommen Marg, Jodhpur-295291",7
+ATM0208,26.938619,75.755815,Jaipur,SBI,"50, Morar Road, Ghaziabad 622979",7
+ATM0209,26.91082,75.809759,Jaipur,HDFC,"08/023, Sarkar Marg, Singrauli-166674",7
+ATM0210,26.914864,75.7656,Jaipur,SBI,"H.No. 98, Patla Street, Adoni-379359",7
+ATM0211,26.881812,75.760048,Jaipur,SBI,"47/56, Dara Road, Fatehpur 818899",7
+ATM0212,26.863815,75.790714,Jaipur,SBI,"H.No. 46, Srinivasan Ganj, Rourkela 078499",7
+ATM0213,26.959829,75.792636,Jaipur,Canara,"79/777, Chander Nagar, Tirupati-177298",7
+ATM0214,26.875028,75.824146,Jaipur,PNB,"27/249, Parekh Chowk, Bally-487123",7
+ATM0215,26.949672,75.794706,Jaipur,PNB,"72/58, Prakash, Chittoor-117785",7
+ATM0216,26.906447,75.755736,Jaipur,SBI,"63/405, Rege Circle, Navi Mumbai 714801",7
+ATM0217,26.956506,75.785073,Jaipur,ICICI,"H.No. 328, Tailor Circle, Bellary-834259",7
+ATM0218,26.902471,75.744708,Jaipur,Canara,"89, Choudhary Marg, Dindigul 182080",7
+ATM0219,26.867761,75.75222,Jaipur,Canara,"015, Puri Marg, Bettiah 519110",7
+ATM0220,26.892784,75.836692,Jaipur,SBI,"78/54, Hegde Zila, Delhi-972645",7
+ATM0221,26.938844,75.797932,Jaipur,BOB,"465, Swamy Chowk, Etawah 889713",7
+ATM0222,26.874269,80.934238,Lucknow,HDFC,"22/763, Sandhu Circle, Bilaspur 648348",8
+ATM0223,26.826435,80.955053,Lucknow,PNB,"12, Datta Ganj, Panvel 444934",8
+ATM0224,26.853563,80.902223,Lucknow,HDFC,"H.No. 27, Gala Circle, Bhind 899295",8
+ATM0225,26.806623,80.972474,Lucknow,Canara,"75/205, Chauhan Street, Tinsukia-910973",8
+ATM0226,26.823165,80.904319,Lucknow,SBI,"277, Chakrabarti Nagar, Ongole-573260",8
+ATM0227,26.851899,80.911853,Lucknow,PNB,"20/938, Kashyap Zila, Tinsukia-006144",8
+ATM0228,26.865637,80.943191,Lucknow,SBI,"H.No. 519, Lal, Hajipur-954351",8
+ATM0229,26.82551,80.924472,Lucknow,ICICI,"973, Borra Marg, Purnia 760239",8
+ATM0230,26.803818,80.919542,Lucknow,SBI,"62/53, Oak, Panihati-956728",8
+ATM0231,26.875825,80.955179,Lucknow,ICICI,"H.No. 66, Gour Ganj, Chandigarh 764246",8
+ATM0232,26.816482,80.907678,Lucknow,SBI,"H.No. 53, Badal Path, Bihar Sharif-122317",8
+ATM0233,26.811599,80.922763,Lucknow,SBI,"01, Sankaran Circle, Kota 428674",8
+ATM0234,26.802664,80.975463,Lucknow,Canara,"H.No. 754, Tank Ganj, Saharanpur-699822",8
+ATM0235,26.879124,80.988319,Lucknow,PNB,"25/785, Bhargava Circle, Saharanpur-637670",8
+ATM0236,26.84357,80.926609,Lucknow,PNB,"79/458, Contractor Chowk, Berhampore 047145",8
+ATM0237,26.823925,80.950198,Lucknow,PNB,"H.No. 07, Rajagopalan Road, Bijapur-589114",8
+ATM0238,26.856504,80.985142,Lucknow,BOB,"H.No. 61, Vyas, Ambarnath 029935",8
+ATM0239,26.857071,80.898786,Lucknow,SBI,"90, Walla Street, Hapur-624363",8
+ATM0240,26.86413,80.982252,Lucknow,Canara,"H.No. 531, Purohit Path, Nellore-118017",8
+ATM0241,26.798775,80.972676,Lucknow,ICICI,"48, Sampath Zila, Berhampur-974482",8
+ATM0242,26.854325,80.972511,Lucknow,SBI,"85/39, Bhalla Road, Yamunanagar-298496",8
+ATM0243,26.848596,80.940423,Lucknow,SBI,"38/56, Bawa Street, Ahmednagar 874162",8
+ATM0244,25.587688,85.169024,Patna,HDFC,"H.No. 436, Deol, Ulhasnagar-027360",9
+ATM0245,25.591101,85.128435,Patna,SBI,"68, Bava Path, Etawah 075756",9
+ATM0246,25.55456,85.103682,Patna,PNB,"H.No. 43, Cheema, Aurangabad-478715",9
+ATM0247,25.593647,85.153858,Patna,PNB,"956, Tandon Road, Hapur 064643",9
+ATM0248,25.62015,85.09127,Patna,SBI,"89/253, Dey Ganj, Phusro 609157",9
+ATM0249,25.56934,85.099192,Patna,BOB,"16/43, Bhakta Ganj, Bhavnagar 945397",9
+ATM0250,25.630591,85.170093,Patna,SBI,"H.No. 275, Aggarwal, Kirari Suleman Nagar-346658",9
+ATM0251,25.631037,85.133798,Patna,SBI,"199, Sandal, Bongaigaon 748643",9
+ATM0252,25.595944,85.149863,Patna,PNB,"H.No. 448, Sastry Zila, Amritsar 444709",9
+ATM0253,25.588304,85.092761,Patna,SBI,"H.No. 031, Gokhale Zila, Patna 921456",9
+ATM0254,25.557201,85.116403,Patna,ICICI,"71/03, Ratti Road, Hindupur 646559",9
+ATM0255,25.592571,85.090487,Patna,Canara,"47, Sinha Circle, Jalandhar 474048",9
+ATM0256,25.624031,85.158578,Patna,SBI,"164, Datta Street, Cuttack-223191",9
+ATM0257,25.545467,85.128399,Patna,SBI,"H.No. 65, Sane Street, Belgaum 073936",9
+ATM0258,25.628241,85.098946,Patna,HDFC,"00, Sandhu Road, Jorhat 918081",9
+ATM0259,25.608871,85.102997,Patna,HDFC,"H.No. 84, Suri Zila, Kottayam 332137",9
+ATM0260,25.573286,85.158141,Patna,PNB,"H.No. 87, Thakkar Ganj, Anantapuram-274689",9
+ATM0261,25.59235,85.134822,Patna,PNB,"18/75, Rout, Satna 547684",9
+ATM0262,25.558564,85.106661,Patna,Canara,"06/601, Sarraf Chowk, Sambhal 643858",9
+ATM0263,25.618729,85.101251,Patna,SBI,"20/507, Saraf Zila, Ambarnath-908183",9
+ATM0264,25.621368,85.173041,Patna,SBI,"H.No. 27, Edwin Circle, Nandyal-389158",9
+ATM0265,25.622872,85.114317,Patna,SBI,"68, Ganguly, Mysore-947605",9
+ATM0266,25.616705,85.171348,Patna,Canara,"386, Bumb Road, Durg-586973",9
+ATM0267,25.610094,85.174126,Patna,PNB,"H.No. 54, Warrior Path, Malda 854180",9
+ATM0268,25.592534,85.120844,Patna,BOB,"72, Bose Path, Proddatur 606475",9
+ATM0269,25.581821,85.180885,Patna,ICICI,"575, Pau Circle, Latur-542578",9
+ATM0270,25.642177,85.111481,Patna,PNB,"08/55, Vora Ganj, Kozhikode 835985",9
+ATM0271,25.629701,85.128678,Patna,SBI,"H.No. 065, Pai Marg, Malegaon 247832",9
+ATM0272,25.591398,85.178943,Patna,PNB,"H.No. 540, Bajwa Road, Bahraich 959651",9
+ATM0273,25.642941,85.166839,Patna,Canara,"H.No. 64, Chada Street, Burhanpur-107665",9
+ATM0274,25.559311,85.184082,Patna,SBI,"836, Puri, Ratlam 351870",9
+ATM0275,25.640635,85.120799,Patna,SBI,"H.No. 23, Rajan Nagar, Suryapet 882176",9
+ATM0276,25.628604,85.097571,Patna,HDFC,"70/54, Bandi Path, Tenali-694961",9
+ATM0277,18.542644,73.847698,Pune,Canara,"H.No. 361, Ramachandran Ganj, Raipur 101830",10
+ATM0278,18.485836,73.853649,Pune,HDFC,"48, Hegde Road, Malegaon-521705",10
+ATM0279,18.504256,73.87597,Pune,Canara,"95, Anne Path, Jabalpur-531985",10
+ATM0280,18.555577,73.891934,Pune,ICICI,"49, Din, Bhiwandi-745534",10
+ATM0281,18.508401,73.838366,Pune,BOB,"H.No. 213, Swaminathan Path, Mehsana 568170",10
+ATM0282,18.54634,73.893938,Pune,SBI,"09, Master, Aurangabad 335444",10
+ATM0283,18.477242,73.869816,Pune,HDFC,"H.No. 82, Vohra, Raebareli 472192",10
+ATM0284,18.570143,73.881377,Pune,PNB,"H.No. 178, Thaker Street, Danapur 351910",10
+ATM0285,18.480244,73.870075,Pune,ICICI,"740, Purohit Path, Proddatur-495198",10
+ATM0286,18.514768,73.8761,Pune,HDFC,"11/599, Prabhu Ganj, Danapur 227573",10
+ATM0287,18.474999,73.886314,Pune,SBI,"039, Deep Zila, Muzaffarnagar-119192",10
+ATM0288,18.507884,73.821257,Pune,PNB,"39/00, Dani, Nangloi Jat 453546",10
+ATM0289,18.526993,73.885952,Pune,SBI,"H.No. 576, Atwal Street, Farrukhabad 306301",10
+ATM0290,18.478297,73.893784,Pune,Canara,"997, Jayaraman Path, Orai-640481",10
+ATM0291,18.494483,73.897983,Pune,SBI,"09/17, Date Road, Gandhinagar-911029",10
+ATM0292,21.18399,72.827057,Surat,Canara,"84, Ramesh Street, Serampore 397492",11
+ATM0293,21.210091,72.827625,Surat,SBI,"150, Rajan Path, Ambattur 344583",11
+ATM0294,21.17486,72.788486,Surat,HDFC,"17, Dhawan Chowk, Bathinda-389626",11
+ATM0295,21.218965,72.811015,Surat,HDFC,"901, Bhat Chowk, Bettiah-701690",11
+ATM0296,21.189231,72.826784,Surat,SBI,"831, Edwin Street, Bhimavaram 142808",11
+ATM0297,21.220137,72.866434,Surat,SBI,"83, Lata Circle, Hubli–Dharwad 736706",11
+ATM0298,21.158336,72.816996,Surat,SBI,"27/661, Bhakta Marg, Farrukhabad 521938",11
+ATM0299,21.190128,72.783294,Surat,ICICI,"75/14, Dave Chowk, Tadepalligudem-444995",11
+ATM0300,21.159781,72.78191,Surat,ICICI,"11/30, Deo, Solapur 514792",11
+ATM0301,21.198031,72.87846,Surat,HDFC,"499, Goda Chowk, Vijayawada-476305",11
+ATM0302,21.194717,72.864384,Surat,HDFC,"H.No. 28, Oak Marg, Rajkot 764161",11
+ATM0303,21.197774,72.804112,Surat,ICICI,"91/762, Patla, Hosur 207224",11
+ATM0304,21.1421,72.800113,Surat,SBI,"72, Kant Chowk, Parbhani-000202",11
+ATM0305,21.195758,72.857847,Surat,Canara,"49/83, Nagarajan Chowk, Kirari Suleman Nagar-457399",11
+ATM0306,21.133878,72.790816,Surat,Canara,"H.No. 034, Sastry Chowk, Kanpur 327055",11
+ATM0307,21.124142,72.859961,Surat,SBI,"H.No. 556, Upadhyay Circle, Dindigul 025631",11
+ATM0308,21.156686,72.794241,Surat,HDFC,"21/043, Sawhney Circle, Howrah 521353",11
+ATM0309,21.152872,72.82265,Surat,SBI,"189, Saxena, Ambala-389967",11
+ATM0310,21.198851,72.868746,Surat,PNB,"H.No. 85, Gade Path, Allahabad-795136",11
+ATM0311,21.170379,72.808353,Surat,SBI,"08/342, Kaur Nagar, Shimoga-249143",11
+ATM0312,21.211605,72.875519,Surat,HDFC,"H.No. 49, Gala Marg, Loni-325552",11
+ATM0313,21.149714,72.86814,Surat,ICICI,"27/68, Gandhi Road, Giridih 758547",11
+ATM0314,21.167033,72.78863,Surat,BOB,"35/65, Murthy Nagar, Bhimavaram-745503",11
+ATM0315,21.142761,72.848732,Surat,Canara,"189, Virk Street, Raipur-172447",11
+ATM0316,21.159941,72.865674,Surat,Canara,"17/30, Murty Chowk, Miryalaguda-439683",11
+ATM0317,21.12923,72.820557,Surat,SBI,"161, Ahluwalia, Bhiwandi-184892",11
+ATM0318,21.132559,72.817959,Surat,BOB,"35, Rastogi Circle, Sasaram-841190",11
+ATM0319,21.146416,72.819203,Surat,Canara,"28, Mital Street, Srikakulam-165061",11
+ATM0320,21.157347,72.848584,Surat,PNB,"16/06, Rao Nagar, Raipur 902745",11
+ATM0321,24.001423,87.000841,Jamtara,HDFC,"03/67, Walla Marg, Kavali 615793",12
+ATM0322,23.935137,86.951022,Jamtara,ICICI,"27/83, Misra Chowk, Kochi 920897",12
+ATM0323,24.003939,86.974919,Jamtara,PNB,"05, Gour Circle, Durgapur-218337",12
+ATM0324,23.926978,87.039326,Jamtara,SBI,"96/661, Mani Zila, Jaunpur 237535",12
+ATM0325,23.962262,86.954419,Jamtara,ICICI,"11/26, Biswas, Naihati-188491",12
+ATM0326,23.926566,86.990064,Jamtara,Canara,"H.No. 607, Issac Zila, Meerut 358650",12
+ATM0327,23.987314,87.039297,Jamtara,PNB,"34/446, Vyas Circle, Dindigul-647880",12
+ATM0328,23.987227,86.960152,Jamtara,PNB,"06/775, Dash Marg, Bokaro-754736",12
+ATM0329,23.922902,86.993635,Jamtara,PNB,"11/871, Bhatia Chowk, Mathura 588900",12
+ATM0330,24.008152,86.947972,Jamtara,PNB,"53, Chaudhary Chowk, Tiruchirappalli-408327",12
+ATM0331,23.957338,87.039756,Jamtara,ICICI,"11/21, Kapur Marg, Kamarhati 504952",12
+ATM0332,23.922935,87.013268,Jamtara,PNB,"H.No. 447, Ahluwalia Marg, Nanded-838453",12
+ATM0333,24.010784,86.980567,Jamtara,PNB,"609, Sha, Sonipat 142602",12
+ATM0334,23.931981,86.956916,Jamtara,ICICI,"73/86, Chatterjee Road, Delhi 454894",12
+ATM0335,23.958472,87.010977,Jamtara,Canara,"H.No. 39, Bahl Ganj, Avadi-981230",12
+ATM0336,23.972715,86.946836,Jamtara,BOB,"15, Sami Path, Bidhannagar-802445",12
+ATM0337,23.937357,86.957292,Jamtara,Canara,"12/153, Narula Ganj, Gopalpur 517836",12
+ATM0338,23.919861,87.021216,Jamtara,SBI,"64/44, Varma Chowk, Gulbarga-942509",12
+ATM0339,23.934595,87.03167,Jamtara,SBI,"76/120, Sunder Path, Srinagar 187222",12
+ATM0340,23.927755,87.034753,Jamtara,SBI,"H.No. 509, Gupta Ganj, Tiruppur-493603",12
+ATM0341,23.998841,86.959169,Jamtara,SBI,"H.No. 321, Shetty Path, Ramagundam-274767",12
+ATM0342,23.938065,86.96215,Jamtara,Canara,"729, Shroff Nagar, Saharsa 210595",12
+ATM0343,23.915578,86.946186,Jamtara,BOB,"25/545, Trivedi Circle, Naihati 863371",12
+ATM0344,23.936793,86.977077,Jamtara,SBI,"H.No. 213, Sahni Marg, Korba-318453",12
+ATM0345,23.91824,87.018872,Jamtara,PNB,"06, Dani Street, Jalgaon-009837",12
+ATM0346,23.987567,86.992325,Jamtara,BOB,"626, Kari Ganj, Morbi-620445",12
+ATM0347,23.964324,86.955605,Jamtara,PNB,"H.No. 995, Ratti Marg, Haldia 367072",12
+ATM0348,24.007542,86.949037,Jamtara,BOB,"46/55, Oommen Circle, Nanded 269628",12
+ATM0349,23.999698,86.996845,Jamtara,PNB,"758, Deo Circle, Indore 916654",12
+ATM0350,24.009403,86.950783,Jamtara,PNB,"H.No. 626, Thaker Street, Bhiwani-356727",12
+ATM0351,23.953162,87.01331,Jamtara,PNB,"36/187, Pillay Zila, Eluru 411485",12
+ATM0352,24.00397,86.952049,Jamtara,SBI,"72, Ramanathan Street, Bongaigaon 215142",12
+ATM0353,23.97383,86.951268,Jamtara,SBI,"77/57, Cherian Circle, Pondicherry 796809",12
+ATM0354,23.976308,86.999536,Jamtara,SBI,"H.No. 39, Srivastava Street, Surat 741861",12
+ATM0355,23.798756,86.425772,Dhanbad,Canara,"H.No. 423, Saxena, Warangal-600796",13
+ATM0356,23.755618,86.450578,Dhanbad,ICICI,"75, Ganesan, Tumkur 753111",13
+ATM0357,23.810792,86.457296,Dhanbad,BOB,"31, Devan Marg, Jammu 924493",13
+ATM0358,23.767202,86.425555,Dhanbad,SBI,"H.No. 73, Sem, Ludhiana-420651",13
+ATM0359,23.779593,86.42575,Dhanbad,PNB,"77/694, Hans Nagar, Darbhanga 330555",13
+ATM0360,23.755209,86.423076,Dhanbad,Canara,"51/39, Amble Road, Muzaffarnagar 928364",13
+ATM0361,23.78313,86.395664,Dhanbad,HDFC,"162, Batta Zila, Farrukhabad 008283",13
+ATM0362,23.752413,86.463577,Dhanbad,SBI,"768, Buch Ganj, Tiruppur-737011",13
+ATM0363,23.755356,86.45428,Dhanbad,ICICI,"90/197, Sha Circle, Ludhiana-376174",13
+ATM0364,23.801337,86.439047,Dhanbad,Canara,"72/593, Lad Chowk, Satara 219945",13
+ATM0365,23.778665,86.392623,Dhanbad,PNB,"H.No. 994, Mahajan Circle, Bijapur 817883",13
+ATM0366,23.812234,86.455428,Dhanbad,ICICI,"03/51, Kamdar Nagar, Guntakal-071934",13
+ATM0367,23.817806,86.47724,Dhanbad,Canara,"22/64, Trivedi Nagar, Bahraich-597454",13
+ATM0368,23.780865,86.438192,Dhanbad,SBI,"34, Contractor Road, Dhanbad 162562",13
+ATM0369,23.811374,86.402824,Dhanbad,SBI,"H.No. 77, Kamdar Nagar, Mirzapur 439849",13
+ATM0370,23.830237,86.417156,Dhanbad,BOB,"H.No. 50, Sanghvi, Mahbubnagar-040353",13
+ATM0371,23.80311,86.461122,Dhanbad,ICICI,"527, Banerjee Circle, Indore 466196",13
+ATM0372,23.843155,86.462243,Dhanbad,Canara,"H.No. 169, Kulkarni Marg, Mumbai-268337",13
+ATM0373,23.80997,86.383025,Dhanbad,HDFC,"25, Parekh Marg, Bhavnagar-581599",13
+ATM0374,23.828646,86.407145,Dhanbad,SBI,"H.No. 24, Rout Chowk, Dibrugarh 991180",13
+ATM0375,23.81597,86.411298,Dhanbad,SBI,"H.No. 414, Tripathi Marg, Allahabad-042532",13
+ATM0376,23.746311,86.467386,Dhanbad,Canara,"35/62, Verma Path, Raichur-159636",13
+ATM0377,23.785778,86.394587,Dhanbad,Canara,"H.No. 151, Baria, Alappuzha-815036",13
+ATM0378,23.748766,86.455011,Dhanbad,SBI,"87/216, Oak Street, Mathura-818202",13
+ATM0379,23.787683,86.41449,Dhanbad,PNB,"04/616, Buch Road, Ambattur 257306",13
+ATM0380,23.81786,86.458084,Dhanbad,Canara,"H.No. 007, Kunda Street, Kalyan-Dombivli-354795",13
+ATM0381,23.754196,86.385661,Dhanbad,SBI,"H.No. 352, Pandit Chowk, Bilaspur-290541",13
+ATM0382,23.807484,86.447797,Dhanbad,SBI,"98/41, Hari Path, Mehsana-575554",13
+ATM0383,23.811894,86.428966,Dhanbad,PNB,"05, Nori Chowk, Morena-416699",13
+ATM0384,23.773017,86.455894,Dhanbad,SBI,"200, Narain Marg, Junagadh-410925",13
+ATM0385,23.788691,86.408725,Dhanbad,Canara,"H.No. 918, Mani Marg, Munger-054592",13
+ATM0386,23.794363,86.447113,Dhanbad,SBI,"39, Ghose Circle, Ghaziabad-997271",13
+ATM0387,23.785226,86.440332,Dhanbad,SBI,"H.No. 33, Mittal Ganj, Madanapalle 774292",13
+ATM0388,23.775842,86.401523,Dhanbad,SBI,"18/37, Menon, Kirari Suleman Nagar 955705",13
+ATM0389,27.194145,77.451998,Bharatpur,PNB,"861, Murthy Marg, Moradabad 060729",14
+ATM0390,27.208266,77.452919,Bharatpur,PNB,"H.No. 72, Buch Marg, Morena 584197",14
+ATM0391,27.188211,77.495872,Bharatpur,Canara,"07, Kamdar Marg, Sambalpur 093533",14
+ATM0392,27.200617,77.479707,Bharatpur,BOB,"64/966, Chander Zila, Mirzapur-072897",14
+ATM0393,27.208822,77.485975,Bharatpur,SBI,"76, Sankar Ganj, Ghaziabad 471713",14
+ATM0394,27.196506,77.482928,Bharatpur,PNB,"H.No. 12, Samra Zila, Gulbarga-586219",14
+ATM0395,27.229214,77.468952,Bharatpur,PNB,"H.No. 116, Ratta Nagar, Mahbubnagar 520830",14
+ATM0396,27.26182,77.457187,Bharatpur,HDFC,"67, Lal Chowk, Mathura-561901",14
+ATM0397,27.21121,77.508961,Bharatpur,PNB,"H.No. 17, Dutta Zila, Serampore 372146",14
+ATM0398,27.208871,77.450586,Bharatpur,PNB,"684, Minhas, Jalandhar-819329",14
+ATM0399,27.205245,77.447865,Bharatpur,ICICI,"82/81, Dara Chowk, Rourkela-713507",14
+ATM0400,27.23978,77.462157,Bharatpur,BOB,"H.No. 07, Kapur, Aligarh 129210",14
+ATM0401,27.172838,77.503322,Bharatpur,PNB,"H.No. 32, Sankaran Street, Bihar Sharif-301616",14
+ATM0402,27.18459,77.517623,Bharatpur,PNB,"H.No. 56, Parsa, Gudivada-340816",14
+ATM0403,27.261022,77.504544,Bharatpur,SBI,"68/590, Murthy Nagar, Lucknow 861399",14
+ATM0404,27.17548,77.465597,Bharatpur,SBI,"07/41, Barad Street, Kanpur 643274",14
+ATM0405,27.180487,77.515915,Bharatpur,SBI,"H.No. 951, Soman Road, Nadiad 812895",14
+ATM0406,27.260329,77.502795,Bharatpur,PNB,"90, Lal Circle, Medininagar 927417",14
+ATM0407,27.221574,77.497947,Bharatpur,Canara,"81/30, Agrawal Path, Adoni 410969",14
+ATM0408,27.253405,77.504299,Bharatpur,HDFC,"41/355, Banik Nagar, Siwan-380335",14
+ATM0409,27.197521,77.537097,Bharatpur,SBI,"51/93, Krishnan Marg, Meerut-456673",14
+ATM0410,27.209176,77.486892,Bharatpur,Canara,"H.No. 177, Pandit Circle, Ranchi 854921",14
+ATM0411,27.244833,77.499142,Bharatpur,PNB,"H.No. 906, Raman Ganj, Jamalpur-361649",14
+ATM0412,28.085041,76.998091,Nuh,SBI,"H.No. 492, Basu Road, Bhubaneswar 444000",15
+ATM0413,28.13717,76.960573,Nuh,ICICI,"242, Raman Ganj, Bareilly-632543",15
+ATM0414,28.139529,77.014401,Nuh,PNB,"H.No. 990, Sinha Ganj, Rampur 276710",15
+ATM0415,28.100271,77.008332,Nuh,BOB,"47/666, Sagar Road, Pudukkottai 762264",15
+ATM0416,28.143588,76.997873,Nuh,ICICI,"06/661, Modi Ganj, Tadepalligudem 689332",15
+ATM0417,28.119184,76.985053,Nuh,PNB,"91/19, Karnik Road, Bhavnagar-684357",15
+ATM0418,28.069086,76.959087,Nuh,SBI,"85/629, Ramanathan Chowk, Etawah 044908",15
+ATM0419,28.143913,76.987244,Nuh,BOB,"08/78, Thaker Circle, Kanpur 925078",15
+ATM0420,28.104455,76.970156,Nuh,SBI,"494, Magar Chowk, Erode-293694",15
+ATM0421,28.097776,76.996842,Nuh,PNB,"13/83, Ratta Nagar, Rajpur Sonarpur-530501",15
+ATM0422,28.069875,76.990185,Nuh,SBI,"075, Sahota Marg, Allahabad 607825",15
+ATM0423,28.094877,76.986737,Nuh,Canara,"27, Kibe Marg, Sirsa 440012",15
+ATM0424,28.132923,77.017631,Nuh,SBI,"14, Kalla, Pimpri-Chinchwad 823020",15
+ATM0425,28.063451,77.020738,Nuh,SBI,"48/815, Wable Marg, Madanapalle 486709",15
+ATM0426,28.126373,77.018556,Nuh,HDFC,"H.No. 80, Reddy Ganj, Bharatpur 522829",15
+ATM0427,28.141328,76.986236,Nuh,Canara,"H.No. 208, Vyas Ganj, Berhampur-353858",15
+ATM0428,28.068143,76.987882,Nuh,HDFC,"84/135, Guha Chowk, Deoghar 236973",15
+ATM0429,27.508614,77.636595,Mathura,BOB,"36/47, Sanghvi Nagar, Jorhat-991278",14
+ATM0430,27.450872,77.679592,Mathura,Canara,"H.No. 13, Konda Circle, Ahmedabad 722868",14
+ATM0431,27.475248,77.636479,Mathura,BOB,"H.No. 76, Patil Zila, Mumbai-482944",14
+ATM0432,27.537111,77.723416,Mathura,HDFC,"88/84, Sunder Chowk, North Dumdum-967139",14
+ATM0433,27.451745,77.690746,Mathura,PNB,"27/195, Murty Nagar, Agra 131174",14
+ATM0434,27.444223,77.654587,Mathura,HDFC,"H.No. 446, Khatri Road, Ambala-737082",14
+ATM0435,27.476573,77.700316,Mathura,SBI,"49, Bains Path, Gangtok-076867",14
+ATM0436,27.542398,77.639195,Mathura,SBI,"43/72, Basak Street, Bharatpur-371413",14
+ATM0437,27.521212,77.674469,Mathura,PNB,"H.No. 56, Dave, Nagercoil-218512",14
+ATM0438,27.516264,77.676353,Mathura,Canara,"96/76, Pingle Circle, Davanagere-249956",14
+ATM0439,27.530039,77.685503,Mathura,Canara,"05, Parsa Marg, Nanded-779228",14
+ATM0440,27.457825,77.641785,Mathura,Canara,"H.No. 10, Lata Marg, Madanapalle-724548",14
+ATM0441,27.504874,77.713966,Mathura,BOB,"73, Mital Marg, Junagadh-242641",14
+ATM0442,27.446769,77.66013,Mathura,BOB,"H.No. 384, Prakash Chowk, Berhampore-239315",14
+ATM0443,27.539359,77.68476,Mathura,BOB,"05, Nigam Circle, Phusro-032625",14
+ATM0444,27.52078,77.6471,Mathura,SBI,"09/950, Khurana Road, Pimpri-Chinchwad-091887",14
+ATM0445,27.53896,77.702137,Mathura,HDFC,"H.No. 16, Rajagopalan Nagar, Chittoor-050390",14
+ATM0446,27.461802,77.691531,Mathura,Canara,"H.No. 478, Bhardwaj Street, Amravati-967607",14
+ATM0447,27.48646,77.700644,Mathura,BOB,"H.No. 09, Dhar Path, Miryalaguda 851231",14
+ATM0448,27.492691,77.665566,Mathura,SBI,"62, Subramanian Circle, Chandigarh-493907",14
+ATM0449,27.46237,77.684166,Mathura,ICICI,"28/46, Viswanathan Path, Ramgarh 557283",14
+ATM0450,27.447618,77.671759,Mathura,PNB,"34/00, Mani Marg, Narasaraopet-451067",14
+ATM0451,27.535829,77.69484,Mathura,PNB,"H.No. 66, Khurana Circle, Thoothukudi-175773",14
+ATM0452,27.454868,77.632088,Mathura,SBI,"H.No. 961, Apte Ganj, Sambalpur 954806",14
+ATM0453,27.487332,77.675035,Mathura,ICICI,"11, Swaminathan Marg, Anantapur 365306",14
+ATM0454,27.451571,77.71475,Mathura,ICICI,"H.No. 822, Ganesh Street, Siwan 737201",14
+ATM0455,27.530863,77.716747,Mathura,PNB,"H.No. 180, Narayanan, Durg 784749",14
+ATM0456,27.482045,77.661096,Mathura,PNB,"H.No. 44, Bajwa Road, Jehanabad-341175",14
+ATM0457,27.450561,77.646154,Mathura,SBI,"H.No. 317, Khanna Road, Howrah-798088",14
+ATM0458,27.452308,77.69517,Mathura,SBI,"40/015, Parikh Marg, Baranagar-701394",14
+ATM0459,27.457005,77.62753,Mathura,HDFC,"H.No. 147, Khalsa Zila, Sikar 016417",14
+ATM0460,27.489645,77.706811,Mathura,BOB,"25, Nagar Nagar, Bhiwani-750112",14
+ATM0461,27.489311,77.685235,Mathura,HDFC,"46/765, Verma Ganj, Darbhanga-127178",14
+ATM0462,27.4443,77.645265,Mathura,SBI,"H.No. 452, Pandya Ganj, Faridabad-319305",14
+ATM0463,27.536423,77.684588,Mathura,PNB,"635, Ramaswamy Path, Hospet 740709",14
+ATM0464,27.520017,77.647464,Mathura,SBI,"015, Sengupta Zila, Indore-428017",14
+ATM0465,27.466244,77.687595,Mathura,Canara,"H.No. 900, Solanki Chowk, Shivpuri-837521",14
+ATM0466,24.446386,86.734815,Deoghar,Canara,"H.No. 317, Chada Nagar, Bhagalpur 042706",16
+ATM0467,24.436944,86.695838,Deoghar,SBI,"H.No. 48, Bath Zila, Alappuzha-240982",16
+ATM0468,24.449658,86.687224,Deoghar,Canara,"77/532, Varkey Circle, Berhampur-228896",16
+ATM0469,24.459356,86.685957,Deoghar,Canara,"H.No. 54, Ahluwalia Street, Suryapet 394899",16
+ATM0470,24.443861,86.741765,Deoghar,SBI,"474, Bhatti Nagar, Mehsana 863118",16
+ATM0471,24.487906,86.695033,Deoghar,HDFC,"43/22, Kuruvilla Street, Guntur-898323",16
+ATM0472,24.490715,86.683345,Deoghar,PNB,"H.No. 98, Setty, Jhansi 559773",16
+ATM0473,24.498867,86.742404,Deoghar,SBI,"H.No. 95, Jaggi Zila, Bhalswa Jahangir Pur 839437",16
+ATM0474,24.436924,86.723152,Deoghar,SBI,"55, Munshi Path, Sultan Pur Majra 956657",16
+ATM0475,24.508594,86.707126,Deoghar,BOB,"H.No. 908, Krishnan Road, Tirunelveli-609418",16
+ATM0476,24.508819,86.677552,Deoghar,SBI,"H.No. 13, Dar Ganj, Panvel 726738",16
+ATM0477,24.489901,86.725651,Deoghar,SBI,"60/04, Ramachandran Circle, Saharanpur-029110",16
+ATM0478,24.513214,86.690762,Deoghar,Canara,"H.No. 33, Bhakta Ganj, Thrissur-197242",16
+ATM0479,24.498474,86.72545,Deoghar,SBI,"97, Dugar Chowk, Gulbarga 024671",16
+ATM0480,24.512919,86.690068,Deoghar,SBI,"H.No. 19, Kibe, Thane 554981",16
+ATM0481,24.439681,86.664247,Deoghar,SBI,"77/96, Chawla, Alappuzha 083089",16
+ATM0482,24.528637,86.695838,Deoghar,HDFC,"54/921, Nori Zila, Panchkula-329800",16
+ATM0483,27.55034,76.588262,Alwar,Canara,"81/43, Chaudhuri Street, Bhalswa Jahangir Pur-716537",17
+ATM0484,27.531611,76.670814,Alwar,SBI,"06, Gera Path, Madurai-579666",17
+ATM0485,27.568573,76.611922,Alwar,BOB,"43/02, Kari Path, Bhagalpur 002271",17
+ATM0486,27.546695,76.624602,Alwar,PNB,"000, Sodhi Path, Bahraich 431339",17
+ATM0487,27.598648,76.618504,Alwar,SBI,"31/34, Bhakta Zila, Jalna 921848",17
+ATM0488,27.572207,76.621335,Alwar,BOB,"15/189, Deshmukh Circle, Pune 687113",17
+ATM0489,27.529672,76.592861,Alwar,PNB,"H.No. 86, Vaidya Zila, Shahjahanpur-492677",17
+ATM0490,27.546061,76.68411,Alwar,SBI,"H.No. 82, Palla Street, Begusarai-592874",17
+ATM0491,27.532377,76.59486,Alwar,SBI,"92, Rama Nagar, Bijapur 156549",17
+ATM0492,27.532564,76.629192,Alwar,BOB,"235, Karan Road, Delhi-622237",17
+ATM0493,27.519664,76.628991,Alwar,PNB,"54, Pillay Ganj, Ulhasnagar-267866",17
+ATM0494,27.575681,76.675761,Alwar,Canara,"H.No. 896, Viswanathan Nagar, Hindupur-635668",17
+ATM0495,27.546494,76.648547,Alwar,BOB,"889, Karnik Nagar, Navi Mumbai-814195",17
+ATM0496,27.508736,76.651718,Alwar,PNB,"575, Agarwal Chowk, Agartala-871643",17
+ATM0497,27.554309,76.65959,Alwar,SBI,"H.No. 694, Arya, Rourkela 358289",17
+ATM0498,27.506114,76.669467,Alwar,Canara,"157, Jain, Firozabad 761686",17
+ATM0499,27.546817,76.597223,Alwar,SBI,"H.No. 05, Uppal Path, Akola 204203",17
+ATM0500,27.567516,76.620815,Alwar,HDFC,"394, Dutt Street, Davanagere 174869",17
+ATM0501,27.506239,76.599944,Alwar,PNB,"92/44, Bhargava Circle, Sambalpur-701433",17
+ATM0502,27.540096,76.628994,Alwar,SBI,"09, Kaur Chowk, Bhatpara 397133",17
+ATM0503,27.51677,76.621295,Alwar,SBI,"H.No. 18, Chaudhry Nagar, Firozabad-190939",17
+ATM0504,27.530869,76.680652,Alwar,SBI,"H.No. 836, Narula Marg, Buxar 567298",17
+ATM0505,27.521605,76.636375,Alwar,HDFC,"H.No. 523, Chowdhury Chowk, Avadi-313717",17
+ATM0506,27.514776,76.662096,Alwar,BOB,"64, Kaul Chowk, Nagpur-952077",17
+ATM0507,27.524457,76.645788,Alwar,Canara,"H.No. 243, Keer Path, Panvel 131969",17
+ATM0508,27.602863,76.604618,Alwar,SBI,"39/041, Palan Circle, Medininagar 280923",17
+ATM0509,27.510405,76.601866,Alwar,BOB,"54/25, Tailor Zila, Thiruvananthapuram 439103",17
+ATM0510,27.602726,76.665651,Alwar,HDFC,"42, Kothari Nagar, Gopalpur-549617",17
+ATM0511,27.601657,76.651384,Alwar,BOB,"14/448, Jain, Katihar-685467",17
+ATM0512,27.558,76.613636,Alwar,SBI,"99/431, Dhaliwal Circle, Khora  613904",17
+ATM0513,27.518751,76.655556,Alwar,BOB,"H.No. 741, Sengupta Road, Raichur 357674",17
+ATM0514,27.520409,76.620749,Alwar,SBI,"508, Chaudhari Marg, Nizamabad-655210",17
+ATM0515,29.013707,77.680074,Meerut,PNB,"566, Grewal Zila, Motihari-675065",18
+ATM0516,28.97059,77.713628,Meerut,PNB,"H.No. 755, Shanker Path, Bangalore 267240",18
+ATM0517,29.032801,77.669377,Meerut,ICICI,"73/11, Divan Ganj, Sambhal-196332",18
+ATM0518,28.941075,77.696216,Meerut,BOB,"98/439, Chad Road, Raiganj-953616",18
+ATM0519,28.982367,77.69748,Meerut,PNB,"H.No. 046, Ramanathan Path, Cuttack-012463",18
+ATM0520,28.99199,77.668933,Meerut,SBI,"32/470, Chaudhary Ganj, Amaravati 309770",18
+ATM0521,28.941917,77.702983,Meerut,PNB,"18, Barman Zila, Morena-359085",18
+ATM0522,28.947333,77.739305,Meerut,Canara,"H.No. 02, Dixit Street, Kirari Suleman Nagar-582754",18
+ATM0523,28.993279,77.733178,Meerut,SBI,"668, Bhalla Ganj, Amaravati 178138",18
+ATM0524,28.984786,77.743221,Meerut,ICICI,"94/388, Ganesh, Farrukhabad-073613",18
+ATM0525,28.98631,77.686812,Meerut,SBI,"H.No. 004, Naik Path, Bhilai-025036",18
+ATM0526,29.027974,77.678947,Meerut,HDFC,"45, Solanki Zila, Thane-467351",18
+ATM0527,28.98639,77.684805,Meerut,SBI,"73, Basu Path, Pali 962659",18
+ATM0528,28.95413,77.752035,Meerut,SBI,"12/77, Kant Nagar, Korba 482000",18
+ATM0529,28.997002,77.717843,Meerut,SBI,"00/221, Mutti, Sangli-Miraj & Kupwad-565441",18
+ATM0530,28.998599,77.715581,Meerut,Canara,"41/22, Shankar Street, Tezpur 061413",18
+ATM0531,28.95162,77.718848,Meerut,HDFC,"449, Walla Path, Mau 487177",18
+ATM0532,28.968262,77.748793,Meerut,SBI,"72/765, Kale Street, Guntakal 483521",18
+ATM0533,29.020878,77.664522,Meerut,HDFC,"H.No. 900, Singh Street, Ongole-638893",18
+ATM0534,29.011602,77.682866,Meerut,SBI,"42/20, Dugar Path, Aurangabad 642300",18
+ATM0535,28.991714,77.718211,Meerut,SBI,"52/711, Chad Nagar, Hospet 400417",18
